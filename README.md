@@ -71,3 +71,6 @@ Z. nocov121: In the PAST 12 MONTHS was there any time when you did NOT have ANY 
 aa. medscos1- Not including over-the-counter (OTC) medications, was there a time in the past 12 months when you did not take your medication as prescribed because of cost?( 1 = yes, 2 = no, 3 = no medication was prescribed, 7 = not sure, 9 = refused)
 
 bb. carercvd- n general, how satisfied are you with the health care you received? (1 = very satisfied, 2 = somewhat satisfied, 3 = not at all satisfied, 7 = not sure, 8 = not applicable, 9 refused)
+
+—————————————————————————————————————————————
+Statistical tests are in stats jupyter notebook.
